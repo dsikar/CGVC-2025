@@ -11,8 +11,6 @@ This study introduces the Misclassification Likelihood Matrix (MLM) as a novel t
 ```
 CGVC-2025/
 ├── experiments/         # Reproducible experimental code
-│   ├── baseline/       # Baseline model implementations
-│   └── mlm/           # MLM computation and analysis
 ├── figures/            # Script-generated visualizations
 ├── tables/            # Script-generated data tables
 └── docs/              # Reference papers and documentation
